@@ -1,0 +1,26 @@
+_repo: The-tenth-Irish-division-in-Gallipoli_74163
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, Brian
+    gutenberg_agent_id: '57378'
+    url: http://www.gutenberg.org/2009/agents/57378
+description: ''
+gutenberg_issued: '2024-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74163'
+language: en
+pgterms:marc905: 20190113005835cooper
+pgterms:marc906: '1918'
+pgterms:marc907: GB
+production_note: Brian Coe, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aLondon :$bHerbert Jenkins Ltd, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The tenth (Irish) division in Gallipoli
+url: http://www.gutenberg.org/ebooks/74163
