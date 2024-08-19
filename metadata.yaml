@@ -1,11 +1,16 @@
 _repo: The-tenth-Irish-division-in-Gallipoli_74163
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74163-h/images/cover.jpg
 creator:
   author:
     agent_name: Cooper, Brian
     gutenberg_agent_id: '57378'
     url: http://www.gutenberg.org/2009/agents/57378
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74163#The-tenth-Irish-division-in-Gallipoli
 gutenberg_issued: '2024-07-31'
 gutenberg_type: Text
 identifiers:
